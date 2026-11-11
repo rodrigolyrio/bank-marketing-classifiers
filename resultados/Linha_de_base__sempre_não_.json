@@ -1,0 +1,52 @@
+{
+  "modelo": "Linha de base",
+  "config": "sempre 'não'",
+  "parametros": "{'constant': None, 'random_state': None, 'strategy': 'most_frequent'}",
+  "tempo_s": 0.5,
+  "acuracia": [
+    0.8830034280659074,
+    0.8831010838310108,
+    0.8829904888299049,
+    0.8829904888299049,
+    0.8829904888299049
+  ],
+  "acuracia_media": 0.8830151956773266,
+  "acuracia_dp": 4.8338743649247064e-05,
+  "precisao": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "precisao_media": 0.0,
+  "precisao_dp": 0.0,
+  "revocacao": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "revocacao_media": 0.0,
+  "revocacao_dp": 0.0,
+  "f1": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "f1_media": 0.0,
+  "f1_dp": 0.0,
+  "matriz": [
+    [
+      39922,
+      0
+    ],
+    [
+      5289,
+      0
+    ]
+  ]
+}
