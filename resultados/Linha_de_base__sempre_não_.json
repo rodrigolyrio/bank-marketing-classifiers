@@ -2,7 +2,7 @@
   "modelo": "Linha de base",
   "config": "sempre 'não'",
   "parametros": "{'constant': None, 'random_state': None, 'strategy': 'most_frequent'}",
-  "tempo_s": 0.5,
+  "tempo_s": 0.8,
   "acuracia": [
     0.8830034280659074,
     0.8831010838310108,
