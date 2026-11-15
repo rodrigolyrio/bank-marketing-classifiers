@@ -1,0 +1,52 @@
+{
+  "modelo": "Random Forest",
+  "config": "300 arvores, balanced_subsample",
+  "parametros": "{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced_subsample', 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 300, 'n_jobs': -1, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}",
+  "tempo_s": 16.1,
+  "acuracia": [
+    0.8936193741015149,
+    0.893828798938288,
+    0.8932758239327583,
+    0.8912851139128511,
+    0.896040698960407
+  ],
+  "acuracia_media": 0.8936099619691638,
+  "acuracia_dp": 0.0016935928702172132,
+  "precisao": [
+    0.6290322580645161,
+    0.6381766381766382,
+    0.6267029972752044,
+    0.60932944606414,
+    0.6520618556701031
+  ],
+  "precisao_media": 0.6310606390501203,
+  "precisao_dp": 0.01570856981828087,
+  "revocacao": [
+    0.22117202268431002,
+    0.2119205298013245,
+    0.21739130434782608,
+    0.19754253308128544,
+    0.2391304347826087
+  ],
+  "revocacao_media": 0.21743136493947093,
+  "revocacao_dp": 0.015089555111694,
+  "f1": [
+    0.32727272727272727,
+    0.3181818181818182,
+    0.32280701754385965,
+    0.2983583154889365,
+    0.3499308437067773
+  ],
+  "f1_media": 0.3233101444388238,
+  "f1_dp": 0.018530450123010574,
+  "matriz": [
+    [
+      39251,
+      671
+    ],
+    [
+      4139,
+      1150
+    ]
+  ]
+}
